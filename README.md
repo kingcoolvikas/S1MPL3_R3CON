@@ -1,1 +1,1 @@
-# Bug_Bounty
+# Helpful Scripts for Bug Bounty
